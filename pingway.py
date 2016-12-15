@@ -24,5 +24,5 @@ def jiankong(address):
     time.sleep(5)
 
 
-jiankong('2001:19f0:7001:15bf:5400:00ff:fe40:6f90')
+jiankong('www.baidu.com')
     
